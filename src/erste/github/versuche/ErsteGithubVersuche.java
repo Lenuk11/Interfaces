@@ -17,7 +17,7 @@ public class ErsteGithubVersuche {
     public static void main(String[] args) {
         int a = 8;
         int t = 9;
-        
+        int l = 6;
     }
     
 }

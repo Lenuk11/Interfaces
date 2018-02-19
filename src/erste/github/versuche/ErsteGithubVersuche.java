@@ -18,6 +18,7 @@ public class ErsteGithubVersuche {
         int a = 8;
         int t = 9;
         int l = 6;
+        int hallo = 54; 
     }
     
 }
